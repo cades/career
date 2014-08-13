@@ -6,7 +6,7 @@
 
 ## 網站前後端撰寫能力
 2012年9月起，我在淡江大學兼職寫網頁，撰寫收集研究數據的系統，以及輔助課堂教學的出題系統。2013年9月, 我加入 beerrun taiwan, 負責撰寫[活動網站][beerrun.tw]，獲兩萬人按讚。今年5月，與朋友組隊參加台大黑客松，我們的作品是 [CalShare][CalShare], 一個找出大家「共同有空時段」的 WebApp。我負責前端，用 AngularJS + Google Calendar API 在25小時內完成。
-入伍後，在軍中也有獨立開發資訊管理系統的經驗。我在開發機無法取得網路的環境下，獨力以 Laravel 開發 RESTful Web Service, 前端則以 AngularJS 寫成 SPA，並做到相容 IE8。
+入伍後，在軍中也有開發資訊管理系統的經驗。在開發機無法取得網路的環境下，獨力以 Laravel 開發 RESTful Web Service, 前端則以 AngularJS 寫成 SPA，並做到相容 IE8。
 
 ## 自我學習與問題解決能力
 遇到問題時，我會善用 Google 與 StackOverflow 解決問題；並積極地使用 twitter、RSS 與 newsletter 關注我有興趣的領域。目前我正在學習函數式編程與網頁前端設計。
