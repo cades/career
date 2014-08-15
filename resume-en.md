@@ -19,14 +19,6 @@ Interests
 Work Experience
 ---------------
 
-*   **Department of Educational Technology, Tamkang University**
-
-    Part-time Research Assistant, September 2012 - June 2013
-
-    -   Write web-based systems that collects research data
-    -   Write a web-based system that used in lectures, letting students give and
-        solve problem
-
 *   **Military**
 
     Full-Stack Web Developer, February 2014 - July 2014
@@ -35,6 +27,14 @@ Work Experience
     -   Develop front-end as a SPA with AngularJS
     -   Make front-end code work perfectly in IE8
     -   Use d3js chart do data visualization
+
+*   **Department of Educational Technology, Tamkang University**
+
+    Part-time Research Assistant, September 2012 - June 2013
+
+    -   Write web-based systems that collects research data
+    -   Write a web-based system that used in lectures, letting students give and
+        solve problem
 
 
 Projects
