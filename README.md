@@ -23,7 +23,7 @@ Though, [markdown-pdf][markdown-pdf] is appropriate for autobiography. And it su
     markdown -> PDF/HTML resume
 
     - Require pandoc and latex. If you use mac you need MacTex.
-    - pdflatex not found problem could be solved by [creating a soft link](http://stackoverflow.com/questions/22081991/rmarkdown-pandoc-pdflatex-not-found)
+    - pdflatex not found problem could be solved by [export an environment variable](http://stackoverflow.com/questions/22081991/rmarkdown-pandoc-pdflatex-not-found)
 
 *   [markdown-pdf][markdown-pdf]
 
