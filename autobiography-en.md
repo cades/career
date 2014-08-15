@@ -24,9 +24,9 @@ As for the problem of merging each other's code, programmers use version control
 ## I have the ability to program the front-end and back-end of a website.
 From Sep. 2012, I got a part-time job at TKU, writing web-based systems that collects research data, and a web-based system that used in lectures, letting students give and solve problem.
 
-At Sep. 2013, I joined BEER RUN Taiwan and was responsible for building the [official website][beerrun.tw]. This site eventually got 20,000 likes from facebook.
+At Sep. 2013, I joined BEER RUN Taiwan and was responsible for building the official website. This site eventually got 20,000 likes from facebook.
 
-This May, I attended HackNTU 2014 together with 3 friends. Our product was a WebApp helping a group of people to figure our their common available time, named [CalShare][CalShare]. In this project I made the front-end for it, with AngularJS and Google Calendar API within 25 hours.
+This May, I attended HackNTU 2014 together with 3 friends. Our product was a WebApp helping a group of people to figure our their common available time, named CalShare. In this project I made the front-end for it, with AngularJS and Google Calendar API within 25 hours.
 
 After enlisted, I got a chance to develop a content management system from the ground up. In the condition that development machine cannot connect to WWW, I used Laravel to develop a RESTful Web Service, and made a SPA with AngularJS on my own. And it works well on IE8.
 
