@@ -22,9 +22,9 @@ Because of the observation, I started to learn knowledge of Software Engineering
 As for the problem of merging each other's code, programmers use version control system to tackle it. So I choose git and use it on several projects for 2 years.
 
 ## I have the ability to program the front-end and back-end of a website.
-From Sep. 2012, I got a part-time job at TKU, writing web-based systems that collects research data, and a web-based system that used in lectures, letting students give and solve problem.
+From Sept. 2012, I got a part-time job at TKU, writing web-based systems that collects research data, and a web-based system that used in lectures, letting students give and solve problem.
 
-At Sep. 2013, I joined BEER RUN Taiwan and was responsible for building the official website. This site eventually got 20,000 likes from facebook.
+At Sept. 2013, I joined BEER RUN Taiwan and was responsible for building the official website. This site eventually got 20,000 likes from facebook.
 
 This May, I attended HackNTU 2014 together with 3 friends. Our product was a WebApp helping a group of people to figure our their common available time, named CalShare. In this project I made the front-end for it, with AngularJS and Google Calendar API within 25 hours.
 
