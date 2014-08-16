@@ -38,3 +38,9 @@ Though, [markdown-pdf][markdown-pdf] is appropriate for autobiography. And it su
 [resume]: https://github.com/mwhite/resume
 [markdown-pdf]: https://github.com/alanshaw/markdown-pdf
 [hackerb.io]: http://hackerb.io/
+
+
+Special Thanks
+--------------
+
+Dau-Yuan, [@Johnnyne](https://github.com/Johnnyne) and [@shair](https://github.com/shair3300161) reviewd my english autobiography and gave me very practical suggestions. Thank you!
