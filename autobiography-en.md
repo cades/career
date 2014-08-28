@@ -34,15 +34,15 @@ After enlisted, I got a chance to develop a content management system from the g
 When I encounter problems, I would utilize Google and StackOverflow to solve them. And I aggressively use Twitter, RSS, and newsletter to follow topics with interest. Now I pay attention to functional programming and front-end web design.
 
 ## Personal Info
-- [github](https://github.com/cades)
-- [stackoverflow](http://stackoverflow.com/users/1484674/cades-kao)
-- [blog(record my path)](http://strong-craftsman.blogspot.com/)
-- [blog(share what I learned)](http://cadesshare.blogspot.com/)
-- [twitter](https://twitter.com/cadeskao)
+[github](https://github.com/cades)  
+[stackoverflow](http://stackoverflow.com/users/1484674/cades-kao)  
+[blog(record my path)](http://strong-craftsman.blogspot.com/)  
+[blog(share what I learned)](http://cadesshare.blogspot.com/)  
+[twitter](https://twitter.com/cadeskao)  
 
 ## Portfolio
-1. [beerrun.tw][beerrun.tw]
-1. [CalShare][CalShare], HackNTU 2014
+[beerrun.tw][beerrun.tw]  
+[CalShare][CalShare], HackNTU 2014  
 
 [beerrun.tw]: http://beerrun-tw.herokuapp.com/
 [CalShare]: http://calshare.herokuapp.com/
