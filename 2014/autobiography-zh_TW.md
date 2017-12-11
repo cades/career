@@ -20,7 +20,7 @@
 
 ## 作品
 1. [beerrun.tw][beerrun.tw]
-1. [CalShare][CalShare], hackntu 2014 參賽作品
+2. [CalShare][CalShare], hackntu 2014 參賽作品
 
 [beerrun.tw]: http://beerrun-tw.herokuapp.com/
 [CalShare]: http://calshare.herokuapp.com/
